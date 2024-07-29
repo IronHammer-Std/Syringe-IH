@@ -1,28 +1,17 @@
-BSD 3-Clause License
+This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 license. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/us/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
 
-Copyright (c) 2024, IronHammer Std
+Please be aware that, should any discrepancy between different translations of the license lead to confusion, the binding version is the full legal, German language translation of the license. (The URL to the US summary above is provided purely for convenience, with no intent to display preference for the US version.)
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Permission to use this work, no matter in what way, no matter if it was modified or not, no matter if it was compiled or not, is explicitly only granted if the terms of the license have been accepted in full. If you do not accept any or all terms of the license, you do _not_ have the right to interact with the work, including, but not limited to, no right to read, distribute, print, multiply or modify it.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+If you wish to adapt this work for commercial purposes, contact all previous authors of the version you wish to commercialize and agree with them on a different license. This license explicitly does _not_ waive any previous author's copyright of his own code, and does not limit them in what they can or cannot do with it.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+---
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
+The correct form of attribution for this work, as required by the license, is:
+[ The original codebase ("Syringe") for this project was created by Patrick "pd" Dinklage, based in part on code written by Jan Newger. ]
+Please leave this note in a visible, easily accessible and sensible place, such as a readme or credits file, or intro or outro videos.
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+---
+
+The original location of this work is http://forums.renegadeprojects.com/showthread.php?tid=1160&pid=13088#pid13088
