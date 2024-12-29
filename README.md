@@ -1,5 +1,5 @@
 
-Syringe-IH是在公版Syringe0.7.2.0的基础上升级而来的。
+Syringe 0.7.2.1是在公版Syringe0.7.2.0的基础上升级而来的。
 提供了包括扩展INJ格式，钩子优先级，相对钩子，更加人性的IE报错说明等功能。
 有关开发者的使用详见SyringeEx使用说明。
                                                   ——钢铁之锤 2024年7月
@@ -26,8 +26,18 @@ Syringe.json中的配置：
   "DefaultExecutableName": "gamemd.exe", //启动的程序，默认留空
   "DefaultCommandLine": "-cd -speedcontrol -log", //启动参数，默认留空
 	注：如果通过bat启动Syringe，那么命令行当中的参数会覆盖上述两个参数
+
+  "InfiniteWaitForDebug": false,//决定是否在发生异常时额外弹窗以等待调试，用于调试某些Bug，默认false
+  "LongStackDump": false,//是否会延长栈转储以获得完整栈信息，默认false
+  "OnlyShowStackFrame": false,//是否在栈转储中仅显示函数调用层级，默认false
+  "ExceptionReportAlwaysFull": true,//是否总是显示每次异常的全部信息，默认false（即除了第一次出现异常，后面都只有简略信息）
+
+
   "IsRunningYR": true, //决定是否启用Syringe的运行前信息 默认false
   "RemoteDatabaseDump": false, //运行前信息启用时，是否转储一份到RemoteData.dmp 默认false
+  "DetachAfterInjection": false, //是否在注入完成后与gamemd分离， 默认false（可以加上自己的调试器）
+  "EnableHandshakeCheck": true,//是否进行握手检查（如Ares对gamemd的检查），默认true
+	注：！！如果使用steam版红警，务必设置为false
 
   HookAnalysis :钩子分析器设置
   填true或false是完全打开或完全关闭，默认false。
