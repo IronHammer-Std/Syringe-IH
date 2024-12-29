@@ -1,8 +1,8 @@
 
-Syringe 0.7.2.1是在公版Syringe0.7.2.0的基础上升级而来的。
+```
+SyringeIH是在公版Syringe0.7.2.0的基础上升级而来的。
 提供了包括扩展INJ格式，钩子优先级，相对钩子，更加人性的IE报错说明等功能。
-有关开发者的使用详见SyringeEx使用说明。
-                                                  ——钢铁之锤 2024年7月
+                                                  ——钢铁之锤 2024年9月
 
 
 DLL可以放在游戏目录，或放在Patches子目录。
@@ -114,5 +114,5 @@ EnableHooks在单独配套的JSON中不可用
     "Ares.dll": [ "dfdfds", "fdfdsfds", "dddd" ],
   ]
 }
-
+```
 
